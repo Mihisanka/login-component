@@ -126,7 +126,7 @@ const Registration = () => {
         <div className="inputs">
           <input
             type="number"
-            placeholder="vehicle number"
+            placeholder="........"
             onChange={(e) => setVehicleNumber(e.target.value)}
           ></input>
         </div>
